@@ -1,5 +1,5 @@
 var titulo = document.querySelector(".titulo");
-titulo.textContent = "Banana Nutrição";
+titulo.textContent = "UGA TCHACA UGA TCHACA UGA UGA UGA TCHACA";
  
 var pacientes = document.querySelectorAll(".paciente")
 
